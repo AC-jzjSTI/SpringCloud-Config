@@ -1,5 +1,5 @@
 config:
-  info: "Master branch, SpringCloud-Config/config-dev.yml version=1"
+  info: "Master branch, SpringCloud-Config/config-dev.yml version=2"
   
 spring:
   datasource: 
